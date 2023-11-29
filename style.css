@@ -31,6 +31,13 @@ body {
 
 }
 
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px
+}
+
 @media(max-width:480px){
     .quotes, .quotes h3{
         font-size: 1rem;
